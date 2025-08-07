@@ -63,9 +63,6 @@ When a less complex model was used:
 ### Cross-Asset Signals
 Incorporate price trends of competitors or supplier/parent companies.
 
-### Derived Features
-Add volatility, moving averages, or trading volume patterns.
-
 ### Multi-Input Model
 Train an LSTM that jointly learns from both price data and daily sentiment as input features.
 
